@@ -1,5 +1,6 @@
 {
     "name": "mbjacket81/tools",
+    "version": "2.1.0",
     "type": "library",
     "description": "PHP tools, scripts and assets.",
     "keywords": ["php", "tools", "assets", "scripts", "rathouz"],
