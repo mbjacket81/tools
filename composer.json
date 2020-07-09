@@ -1,5 +1,5 @@
 {
-    "name": "rathouz/tools",
+    "name": "mbjacket81/tools",
     "type": "library",
     "description": "PHP tools, scripts and assets.",
     "keywords": ["php", "tools", "assets", "scripts", "rathouz"],
@@ -12,12 +12,12 @@
         }
     ],
     "support": {
-        "email": "trathouz@gmail.com",
-        "issues": "https://github.com/rathouz/tools/issues/"
+        "email": "mbjacket81@gmail.com",
+        "issues": "https://github.com/mbjacket81/tools/issues/"
     },
     "require": {
-        "php": ">=5.4.0",
-        "symfony/console": "^3.1"
+        "php": ">=7.3",
+        "symfony/console": "^v5.0.0"
     },
     "require-dev": {
         "codeception/codeception": "2.1.*",
