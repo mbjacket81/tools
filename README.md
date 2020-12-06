@@ -8,7 +8,7 @@ PHP tools, scripts and assets
 Requirements
 ------------
 
-Library **rathouz/tools** requires **PHP 5.4**.
+Library **rathouz/tools** requires **PHP 7.3**.
 For other requirements, please see
 [composer.json](https://github.com/rathouz/tools/blob/master/composer.json)
 
